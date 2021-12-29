@@ -1,0 +1,213 @@
+@import '~font-awesome/css/font-awesome.css';
+.bg{
+    background-color: gray;
+    height: 15rem;
+    position: relative;
+}
+h1{
+    text-align: center;
+    color: white;
+    padding-top: 34px;
+}
+.card {
+    width: 35%;
+    margin-left: 33%;
+    position: absolute;
+    margin-top: -95px;
+  }
+  
+  
+  
+  .container {
+    padding: 2px 16px;
+    text-align: center;
+    
+  }
+  img{
+    border-radius: 50%;
+      width: 110px;
+      height: 110px;
+      margin-left: 11rem;
+      margin-top: -65px;
+  }
+  h2:after {
+    content: '\00D8\0053';
+
+  }
+  .b1{
+    font-size:24px;
+     border-radius:50%; 
+     border:3px solid voilet;
+     padding: 2px 8px 2px 8px; 
+     width: 3rem; 
+     background-color:black;
+    
+  }
+
+  /* ------------------------------------------------ */
+
+
+
+ 
+  /* @media screen and (max-width: 320px) {
+    img {
+
+      margin:auto;
+      margin-top: -65px;   
+    }
+    .card{
+      margin-left: 10px;
+      
+      
+      
+    }
+    .text{
+      text-align:auto;
+      
+      
+    }
+  }
+  @media screen and (max-width: 375px) {
+    img {
+
+      margin:auto;
+      margin-top: -65px;   
+    }
+    .card{
+      margin-left: 80px;
+      width: 50%;
+      
+      
+    }
+    .text{
+      text-align:center;
+      
+      
+      
+    }
+  }
+  @media screen and (max-width: 425px) {
+    img {
+
+      margin:auto;
+      margin-top: -65px;   
+    }
+    .card{
+      margin-left: 90px;
+      width: 50%;
+      
+      
+    }
+    .text{
+      text-align: left;
+      margin-left: 45px;
+      
+    }
+  }
+  @media screen and (max-width: 768px) {
+    img {
+
+      margin:auto;
+      margin-top: -65px;   
+    }
+    .card{
+      margin-left: 100px;
+      width: 50%;
+      
+    }
+    .text{
+      text-align: left;
+      margin-left: 115px;
+    }
+  }
+  
+  @media screen and (max-width: 1024px) {
+    img {
+
+      margin:auto;
+      margin-top: -65px;   
+    }
+    .card{
+      margin-left: 120px;
+      width: 50%;
+      
+      
+    }
+    .text{
+      text-align:center;
+      margin-right: 250PX;
+      
+      
+      
+    }
+  }
+  
+
+  @media screen and (max-width: 1440px) {
+    img {
+
+      margin:auto;
+      margin-top: -65px;   
+    }
+    .card{
+      margin-right: 200px;
+      width: 50%;
+      
+      
+    }
+    .text{
+      text-align:center;
+      margin-right: 210PX;
+      
+      
+      
+    }
+  }
+  
+  @media screen and (max-width: 2560px) {
+    img {
+
+      margin:auto;
+      margin-top: -65px;   
+    }
+    .card{
+      margin-left: 290px;
+      width: 50%;
+      
+      
+    }
+    .text{
+      text-align:center;
+      margin-right: 590PX;
+      
+      
+      
+    }
+  } */
+  
+  button:focus{
+    background-color: hotpink;
+    outline: green auto 5px;
+  }
+  button:hover{
+    background-color: brown;
+    
+  }
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
